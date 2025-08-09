@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vilash.Api", "Vilash.Api\Vilash.Api.csproj", "{744C38E4-968C-47D6-A1AD-820EF9D0B676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vilash.Core", "Vilash.Core\Vilash.Core.csproj", "{3D4E7796-CA6E-469F-80B6-663A4C2B57F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vilash.Infrastructure", "Vilash.Infrastructure\Vilash.Infrastructure.csproj", "{7724D9ED-B46E-4F64-AAB9-88A34FF30AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744C38E4-968C-47D6-A1AD-820EF9D0B676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744C38E4-968C-47D6-A1AD-820EF9D0B676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744C38E4-968C-47D6-A1AD-820EF9D0B676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744C38E4-968C-47D6-A1AD-820EF9D0B676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D4E7796-CA6E-469F-80B6-663A4C2B57F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4E7796-CA6E-469F-80B6-663A4C2B57F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4E7796-CA6E-469F-80B6-663A4C2B57F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4E7796-CA6E-469F-80B6-663A4C2B57F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7724D9ED-B46E-4F64-AAB9-88A34FF30AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7724D9ED-B46E-4F64-AAB9-88A34FF30AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7724D9ED-B46E-4F64-AAB9-88A34FF30AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7724D9ED-B46E-4F64-AAB9-88A34FF30AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
